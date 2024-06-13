@@ -8,16 +8,23 @@ Later he began building small EVs using high power remote control car/airplane c
 ## Explore Projects
 
 ### Club Lighting
+![Basement Lighting](/assets/img/projects/projects_home/club_light.JPG)
 
 ### Electric UTV Conversion
+![Electric UTV](/assets/img/projects/projects_home/utv.jpg)
 
 ### Cooler Scooter
+![Cooler Scooter at beach](/assets/img/projects/projects_home/cooler_scooter.jpg)
 
 ### Custom Batteries
+![1.5 KWh Li-Ion Battery](/assets/img/projects/projects_home/batteries.jpg)
 
 ### Electric Skateboards, Bikes, and Scooters
+![Boosted Scooter reverse engineering](/assets/img/projects/projects_home/scooter.jpg)
 - Using new experience with large battery systems to design high power brushless motor driven vehicles.
 
 ### Custom Arduino and Electronics
+![Custom MIDI launchpad with arduino nano](/assets/img/projects/projects_home/arduino.jpg)
 
 ### 3D Design and CAD
+![Custom 3D designed and printed AC](/assets/img/projects/projects_home/3d_design.jpg)
