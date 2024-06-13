@@ -3,7 +3,7 @@ title: Noah Wiley Portfolio
 description: Noah's Portfolio (njwiley@mit.edu)
 show_downloads: false
 google_analytics: false
-theme: jekyll-theme-minimal
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
