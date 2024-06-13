@@ -3,7 +3,7 @@
 
 Hi! Noah is a dedicated MIT student and versatile engineer with real world experience working at the intersection of electrical engineering, machine learning, and mechatronics. He loves hand-on experimentation, making. In his free time, he enjoys espresso, biking, wake surfing, and anything outdoors. 
 
-## [Maker Projects](./other_pages/projects_home.html)
+<!-- ## [Maker Projects](./other_pages/projects_home.html) -->
 
 ## Education
 ### Massachussets Institute of Technology (Class of 2026)
