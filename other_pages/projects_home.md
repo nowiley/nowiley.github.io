@@ -9,16 +9,16 @@ Later he began building small EVs using high power remote control car/airplane c
 
 <table>
     <tr>
-        <td><a href="./other_pages/club_lighting.html"><img src="/assets/img/projects/projects_home/club_light.JPG" alt="Basement Lighting" style="width: 25%;"></a></td>
-        <td><a href="./other_pages/utv_conversion.html"><img src="/assets/img/projects/projects_home/utv.jpg" alt="Electric UTV" style="width: 25%;"></a></td>
-        <td><a href="./other_pages/cooler_scooter.html"><img src="/assets/img/projects/projects_home/cooler_scooter.jpg" alt="Cooler Scooter at beach" style="width: 25%;"></a></td>
-        <td><a href="./other_pages/custom_batteries.html"><img src="/assets/img/projects/projects_home/batteries.jpg" alt="1.5 KWh Li-Ion Battery" style="width: 25%;"></a></td>
+        <td width="25%"><a href="./other_pages/club_lighting.html"><img src="/assets/img/projects/projects_home/club_light.JPG" alt="Basement Lighting" style="width: 100%;"></a></td>
+        <td width="25%"><a href="./other_pages/utv_conversion.html"><img src="/assets/img/projects/projects_home/utv.jpg" alt="Electric UTV" style="width: 100%;"></a></td>
+        <td width="25%"><a href="./other_pages/cooler_scooter.html"><img src="/assets/img/projects/projects_home/cooler_scooter.jpg" alt="Cooler Scooter at beach" style="width: 100%;"></a></td>
+        <td width="25%"><a href="./other_pages/custom_batteries.html"><img src="/assets/img/projects/projects_home/batteries.jpg" alt="1.5 KWh Li-Ion Battery" style="width: 100%;"></a></td>
     </tr>   
     <tr>
-        <td><a href="./other_pages/electric_skateboards.html"><img src="/assets/img/projects/projects_home/scooter.jpg" alt="Boosted Scooter reverse engineering" style="width: 25%;"></a></td>
-        <td><a href="./other_pages/custom_electronics.html"><img src="/assets/img/projects/projects_home/arduino.jpg" alt="Custom MIDI launchpad with arduino nano" style="width: 25%;"></a></td>
-        <td><a href="./other_pages/3d_design.html"><img src="/assets/img/projects/projects_home/3d_design.jpg" alt="Custom 3D designed and printed AC" style="width: 25%;"></a></td>
-<table>
+        <td width="25%"><a href="./other_pages/electric_skateboards.html"><img src="/assets/img/projects/projects_home/scooter.jpg" alt="Boosted Scooter reverse engineering" style="width: 100%;"></a></td>
+        <td width="25%"><a href="./other_pages/custom_electronics.html"><img src="/assets/img/projects/projects_home/arduino.jpg" alt="Custom MIDI launchpad with arduino nano" style="width: 100%;"></a></td>
+        <td width="25%"><a href="./other_pages/3d_design.html"><img src="/assets/img/projects/projects_home/3d_design.jpg" alt="Custom 3D designed and printed AC" style="width: 100%;"></a></td>
+</table>
 
 
 ### Club Lighting
