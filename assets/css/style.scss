@@ -1,0 +1,106 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+//FROM W3SCHOOLS tool tip hovering
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  width: 120px;
+  top: 100%;
+  left: 50%; 
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+// From W3SCHOOLS captions to image
+figure {
+    border: none;
+    padding: 1px;
+    margin: auto;
+  }
+
+// For project hovering
+figure figcaption {
+  background-color: #1f582e;
+  opacity: 0.2;
+  color: rgb(227, 227, 227);
+  font-style:normal;
+  padding: 3px;
+  text-align: center;
+  border-radius:4px;
+  margin: 0;
+}
+figure:hover figcaption{
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+img {
+  border-radius: 4px;
+}
+
+a {
+  color: #1f582e;
+}
+
+table {
+  box-shadow: none;
+  border: none;
+  border-collapse: collapse;
+}
+
+mark {
+  background-color: #baa86e;
+  color: white;
+  border-radius:3px;
+}
+
+h1 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+h2 {
+  margin-top: 1px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+h4 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+h5 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+ 
