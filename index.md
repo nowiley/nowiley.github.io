@@ -7,14 +7,14 @@ A dedicated MIT student and versatile engineer with real world experience workin
 
 ---
 
-## [Maker Projects](./other_pages/projects_home.html)
+## [Maker Projects](./project_pages/projects_home.html)
 Click to check out some past and present projects!
 
 ---
 
 <h2>Education</h2>
 <h3 style="margin:0px">Massachussets Institute of Technology (Class of 2026)</h3>
-• Candidate for Bachelor of Science in Electrical Engineering and Computer Science <mark> (GPA: 5.0/5.0) </mark>
+• Candidate for Bachelor of Science in Electrical Engineering and Computer Science <mark>(GPA: 5.0/5.0) </mark>
 <br>• Accepted into Masters of Engineering (Expected 2026-2027)
 
 ---

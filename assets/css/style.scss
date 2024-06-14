@@ -42,7 +42,7 @@ figure {
     margin: auto;
   }
 
-// For project hovering
+// For project hovering captions
 figure figcaption {
   background-color: #1f582e;
   opacity: 0.2;
@@ -58,9 +58,11 @@ figure:hover figcaption{
   transition: opacity 0.3s ease-in-out;
 }
 
+// For Images
 img {
   border-radius: 4px;
 }
+
 
 a {
   color: #1f582e;
@@ -73,11 +75,19 @@ table {
 }
 
 mark {
-  background-color: #baa86e;
+  // background-color: #baa86e;
+  background-color: #328949;
   color: white;
   border-radius:3px;
 }
 
+u {
+  border-bottom: 2px solid #baa86e;
+  display: inline-block;
+  line-height: 0.85;
+}
+
+//Header stuff
 h1 {
   margin-top: 1px;
   margin-bottom: 1px;
@@ -101,6 +111,21 @@ h4 {
 h5 {
   margin-top: 1px;
   margin-bottom: 1px;
+}
+
+// Scrolling gallery
+div.scroll-container {
+  background-color: #0e2a16;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+  width: 90%;
+  border-radius: 20px;
 }
 
  
