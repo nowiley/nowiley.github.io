@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Club Lighting | Noah Wiley</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Club Lighting" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Noah’s Portfolio (njwiley@mit.edu)" />
+<meta property="og:description" content="Noah’s Portfolio (njwiley@mit.edu)" />
+<link rel="canonical" href="http://localhost:4000/project_pages/club_lighting.html" />
+<meta property="og:url" content="http://localhost:4000/project_pages/club_lighting.html" />
+<meta property="og:site_name" content="Noah Wiley" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Club Lighting" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Noah’s Portfolio (njwiley@mit.edu)","headline":"Club Lighting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpeg"}},"url":"http://localhost:4000/project_pages/club_lighting.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=cfbaae57196b6ee6c6d924bf16c18149e8513f21">
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- end custom head snippets -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://localhost:4000/">Noah Wiley</a></h1>
+
+        
+          <img style="border-radius:20px;" src="/assets/img/profile.jpeg" alt="Logo" />
+        
+
+        <!-- <p>Noah's Portfolio (njwiley@mit.edu)</p> -->
+        <p><a href="mailto:njwiley@mit.edu">njwiley@mit.edu</a><br>
+          Boston, MA | San Francisco, CA 
+        </p>
+
+        <!-- 
+        <p class="view"><a href="https://github.com/nowiley/nowiley.github.io">View the Project on GitHub <small>nowiley/nowiley.github.io</small></a></p>
+        
+
+         -->
+
+        <!-- Profile Links -->
+        <p>
+          <a href="mailto:njwiley@mit.edu">
+            <img src="/assets/img/email_favicon.png" style="width:30px;vertical-align:middle;">
+            <span style="vertical-align: middle;"> njwiley@mit.edu</span>
+          </a>
+          <br>
+          <a href="https://www.linkedin.com/in/noah-wiley-eng/">
+            <img src="/assets/img/linkedin_favicon.png" style="width:30px;vertical-align:middle;">
+            <span style="vertical-align: middle;"> LinkedIn</span>
+          </a>
+          <br>
+          <a href="https://www.github.com/nowiley">
+            <img src="/assets/img/github_favicon.png" style="width:30px;vertical-align:middle;">
+            <span style="vertical-align: middle;"> GitHub</span>
+          </a>
+        </p>
+
+        
+      </header>
+      <section>
+
+      <h1 id="club-lighting">Club Lighting</h1>
+<p>Custom lighting system for fraternity basement with lasers, moving lights and addressable LEDs, using ESP32, ESP8266, and Raspberry Pi system. Designed new LED fixtures, integrated old dmx fixtures, and programmed custom lighting effects, all over LAN and WIFI. User is able to easily control all lights through website.</p>
+
+<h3 id="details">Details</h3>
+<ul>
+  <li>Role: Co-Director</li>
+  <li>Dates: Summer 2023 - Present</li>
+  <li>Vision: Provide intuitive, mesmerizing, and reliable club like lighting for the fraternity.</li>
+</ul>
+
+<h3 id="goals">Goals</h3>
+<ul>
+  <li>Intuitive control for any user</li>
+  <li>Dope lighting effects</li>
+  <li>Robust wireless control in high interference environment</li>
+  <li>Easily serviceable, expandable, and inexpensive replacement components</li>
+  <li>In budget (1k or less)</li>
+</ul>
+
+<h2 id="gallery">Gallery</h2>
+<div class="scroll-container">
+    <!-- <video controls> <source src="/assets/img/projects/club/lasers.mp4"></video> -->
+    <video controls="" title="Tubes and bars only"> <source src="/assets/img/projects/club/tubes_bars.mp4" /></video>
+    <img title="Artnet to DMX with ESP8266" src="/assets/img/projects/club/club1.JPG" />
+    <video controls="" title="Programming moving lights"> <source src="/assets/img/projects/club/prog_movers.mp4" /></video>
+    <img title="Planning the tube lights" src="/assets/img/projects/club/club2.JPG" />
+    <img title="Planning Roof 1" src="/assets/img/projects/club/club4.JPG" />
+    <img title="Planning Roof 2" src="/assets/img/projects/club/club5.JPG" />
+    <img title="Before" src="/assets/img/projects/club/club3.JPG" />
+</div>
+
+<h2 id="design-and-process">Design and Process</h2>
+<p><strong>First Steps:</strong> Surveyed the existing lighting system, room layout, and user needs. Researched industry standards and best practices for festival and club lighting. Discovered DMX, Artnet, and sACN protocols for lighting control which often rely on wired connections (XLR, RJ45) and proprietary software.</p>
+
+<p><strong>High Level Design:</strong> Our control software is hosted on a Raspberry Pi hooked up to a router for better WIFI coverage. The Pi runs a QLC+ server which can be accessed by any user on the network. Each custom LED fixture, controlled by an ESP32 running WLED, subscribes to a UDP multicast group associated with specific universes and channels. Old fixtures (like pars and moving heads) with DMX control recieve DMX data from an ESP8266 ArtNet to DMX node based off of <a href="https://github.com/robertoostenveld/esp8266_artnet_dmx512?tab=readme-ov-file">this repo</a>. These nodes similary subscribe to the multicast group, convert the ArtNet data to DMX, and output it to the fixtures. System response is rapid and smooth even with hundreds of WIFI devices nearby.</p>
+
+<p><strong>Light Design:</strong> Designed custom LED fixtures with addressable ws2812b LEDs and ESP32. These modules are readily avalible on online retailers, allow WIFI communication, and pair nicely with open source software like WLED. Inspired by professional tube and roof lighting installations, we designed similar fixtures using $10 acrylic tubes and silicone diffusers.</p>
+
+<p><strong>Communication:</strong> Modern professional lighting systems use Art-Net or sACN to transmit tens of thousands of channels of control data over ethernet (DMX is limited to 512 channels). Further research and experimentation led us to realize the ArtNet protocol uses UDP which we could easily transmit over WIFI instead of ethernet.</p>
+
+
+      </section>
+      <footer>
+        <p style="font-size:10px">
+        
+        This project is maintained by <a href="https://github.com/nowiley">nowiley</a>
+        
+        <br><small style="font-size:7px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>

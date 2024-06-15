@@ -252,3 +252,5 @@ h5 { margin-top: 1px; margin-bottom: 1px; }
 div.scroll-container { background-color: #0e2a16; overflow: auto; white-space: nowrap; padding: 10px; border-radius: 10px; }
 
 div.scroll-container img { padding: 10px; width: 90%; border-radius: 20px; }
+
+div.scroll-container video { padding: 10px; width: 90%; border-radius: 20px; }
