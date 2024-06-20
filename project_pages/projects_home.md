@@ -36,7 +36,7 @@ Later he began building EVs using high power brushless motors from RC systems an
             </a>
         </td>   
         <td style="width:50%">
-            <a href="/project_pages/custom_batteries.html">
+            <a href="/project_pages/batteries.html">
                 <figure>
                     <img src="/assets/img/projects/projects_home/batteries.jpg" title="1.5 KWh Li-Ion Battery" style="width: 100%;">
                     <figcaption>Custom Batteries</figcaption>
@@ -46,7 +46,7 @@ Later he began building EVs using high power brushless motors from RC systems an
     </tr>
     <tr>
         <td style="width:50%">
-            <a href="/project_pages/electric_skateboards.html">
+            <a href="/project_pages/evehicles.html">
                 <figure>
                     <img src="/assets/img/projects/projects_home/scooter.jpg" title="Boosted Scooter reverse engineering" style="width: 100%;">
                     <figcaption>Electric Skateboards, Bikes, and Scooters</figcaption>

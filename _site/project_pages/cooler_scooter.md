@@ -15,8 +15,13 @@ Designed and manufactured ridable cooler scooter that reaches 28+ mph and turns 
 ## Gallery
 <div class="scroll-container">
 <img title="At Ocean Beach" src="/assets/img/projects/cooler_scooter/cooler1.jpg">
+<video controls>
+    <source src="/assets/img/projects/cooler_scooter/driving.MP4"> 
+    <source src="/assets/img/projects/cooler_scooter/driving_2.mp4"> 
+</video>
 <img title="Upgraded frame" src="/assets/img/projects/cooler_scooter/cooler2.jpg">
-<video controls> <source src="/assets/img/projects/cooler_scooter/driving.mp4"> </video>
+<img title="Inside" src="/assets/img/projects/cooler_scooter/cooler4.jpeg">
+<img title="TriCycle Frame" src="/assets/img/projects/cooler_scooter/cooler3.jpeg">
 </div>
 <br>
 
