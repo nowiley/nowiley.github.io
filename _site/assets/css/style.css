@@ -239,7 +239,7 @@ mark { background-color: #328949; color: white; border-radius: 3px; }
 
 u { border-bottom: 2px solid #baa86e; display: inline-block; line-height: 0.85; }
 
-h1 { margin-top: 1px; margin-bottom: 1px; }
+h1 { margin-top: 1px; margin-bottom: 3px; }
 
 h2 { margin-top: 1px; margin-bottom: 10px; }
 
@@ -254,3 +254,11 @@ div.scroll-container { background-color: #0e2a16; overflow: auto; white-space: n
 div.scroll-container img { padding: 10px; width: 90%; border-radius: 20px; }
 
 div.scroll-container video { padding: 10px; width: 90%; border-radius: 20px; }
+
+div.gallery { margin: 5px; border: 1px solid #ccc; float: left; width: 180px; }
+
+div.gallery:hover { border: 1px solid #0e2a16; }
+
+div.gallery img { width: 100%; height: auto; }
+
+div.desc { padding: 15px; text-align: center; }

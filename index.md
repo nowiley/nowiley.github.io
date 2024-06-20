@@ -12,6 +12,11 @@ Click to check out some past and present projects!
 
 ---
 
+## [Hobbies](./hobbies/hobbies_home.html)
+Check out some of hobbies and interests!
+
+---
+
 <h2>Education</h2>
 <h3 style="margin:0px">Massachussets Institute of Technology (Class of 2026)</h3>
 • Candidate for Bachelor of Science in Electrical Engineering and Computer Science <mark>(GPA: 5.0/5.0) </mark>

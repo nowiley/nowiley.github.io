@@ -1,11 +1,11 @@
 # Maker Projects
-A collection of past and present projects. Noah started making because of his favoirte childhood TV show, How it's Made.
+A collection of past and present projects. Started making because of his favoirte childhood TV show, How it's Made.
 
 Early projects include building a desktop computer and MIDI controller. He became interested in electronics and the physical aspect of creating, and explored 3D design using Fusion 360 and 3D printing.
 
 Later he began building EVs using high power brushless motors from RC systems and progressed to more complex EVs like a 40HP UTV. Recently, Noah excitedly pursues coursework, projects, and research in autonomus vehicles, AI, and wireless systems. 
 
-## Explore Projects
+## Featured Projects
 
 <table>
     <tr>
@@ -54,16 +54,6 @@ Later he began building EVs using high power brushless motors from RC systems an
             </a>
         </td>
         <td style="width:50%">
-            <a href="/project_pages/custom_electronics.html">
-                <figure>
-                    <img src="/assets/img/projects/projects_home/arduino.jpg" title="Custom MIDI launchpad with arduino nano" style="width: 100%;">
-                    <figcaption>Custom Arduino and Electronics</figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%">
             <a href="/project_pages/3d_design.html">
                 <figure>
                     <img src="/assets/img/projects/projects_home/3d_design.jpg" title="Custom 3D designed and printed AC" style="width: 100%;">
@@ -72,5 +62,15 @@ Later he began building EVs using high power brushless motors from RC systems an
             </a>
         </td>
     </tr>
+    <!-- <tr>
+        <td style="width:50%">
+            <a href="/project_pages/custom_electronics.html">
+                <figure>
+                    <img src="/assets/img/projects/projects_home/arduino.jpg" title="Custom MIDI launchpad with arduino nano" style="width: 100%;">
+                    <figcaption>Arduino and Electronics</figcaption>
+                </figure>
+            </a>
+        </td>
+    </tr> -->
 </table>
 
