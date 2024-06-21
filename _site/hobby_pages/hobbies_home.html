@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Noah Wiley | Noah’s Portfolio (njwiley@mit.edu)</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Noah Wiley" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Noah’s Portfolio (njwiley@mit.edu)" />
+<meta property="og:description" content="Noah’s Portfolio (njwiley@mit.edu)" />
+<link rel="canonical" href="http://localhost:4000/hobby_pages/hobbies_home.html" />
+<meta property="og:url" content="http://localhost:4000/hobby_pages/hobbies_home.html" />
+<meta property="og:site_name" content="Noah Wiley" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Noah Wiley" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Noah’s Portfolio (njwiley@mit.edu)","headline":"Noah Wiley","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpeg"}},"url":"http://localhost:4000/hobby_pages/hobbies_home.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=87dd0a65a35e4464b35b941eb6c3fe8522e575c6">
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- end custom head snippets -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 style="margin-bottom:5px"><a href="http://localhost:4000/">Noah Wiley</a></h1>
+        
+          <img style="border-radius:20px;" src="/assets/img/profile.jpeg" alt="Logo" />
+        
+
+        <!-- <p>Noah's Portfolio (njwiley@mit.edu)</p> -->
+        <a href="mailto:njwiley@mit.edu">njwiley@mit.edu</a><br>
+          Boston, MA | San Francisco, CA 
+        <div class="vertNav">
+            <div class="dropdown">
+                <button class="dropbtn">Menu</button>
+                <div class="dropdown-content">
+                    <a href="/index.html">Home</a>
+                    <a href="/project_pages/projects_home.html">Maker Projects</a>
+                    <a href="/hobby_pages/hobbies_home.html">Hobbies</a>
+                </div>
+            </div>
+            <a href="mailto:njwiley@mit.edu">
+              <img src="/assets/img/email_favicon.png" style="width:30px;vertical-align:middle;">
+              <span style="vertical-align: middle;"> Email</span>
+            </a>
+            <a href="https://www.linkedin.com/in/noah-wiley-eng/">
+                <img src="/assets/img/linkedin_favicon.png" style="width:30px;vertical-align:middle;">
+                <span style="vertical-align: middle;"> LinkedIn</span>
+            </a>
+            <a href="https://www.github.com/nowiley">
+                <img src="/assets/img/github_favicon.png" style="width:30px;vertical-align:middle;">
+                <span style="vertical-align: middle;"> GitHub</span>
+            </a>
+        </div>
+        
+        <!-- 
+        <p class="view"><a href="https://github.com/nowiley/nowiley.github.io">View the Project on GitHub <small>nowiley/nowiley.github.io</small></a></p>
+        
+
+         -->
+
+        <!-- Profile Links -->
+
+        
+      </header>
+      <section>
+
+      <style>
+/* from https://codepen.io/smashingmag/pen/KKvMqaL */
+* {
+	box-sizing: border-box;
+}
+
+ul body {
+	font-family: Lato, sans-serif;
+	margin: 0;
+	padding: 1rem;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+ul img {
+	width: 100%;
+	display: block;
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	transition: transform 1000ms;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: grid;
+	gap: 0.5rem;
+	grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+	max-width: 100%;
+	width: 70rem;
+}
+
+ul figure {
+	margin: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+ul figure::after {
+	content: '';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 200%;
+	height: 200%;
+	background: rgba(0, 0, 0, 0.5);
+	transform-origin: center;
+	opacity: 0;
+	transform: scale(2);
+	transition: opacity 300ms;
+}
+
+ul figcaption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	place-items: center;
+	text-align: center;
+	padding: 1rem;
+	color: white;
+    background: rgba(0, 0, 0, 0.2);
+	font-size: 1rem;
+	z-index: 1;
+	opacity: 0;
+	transition: opacity 600ms, transform 600ms;
+}
+
+ul a:is(:hover, :focus) figure::after {
+	opacity: 0.1;
+}
+
+ul a:is(:hover, :focus) figcaption {
+	opacity: 1;
+	transition: opacity 600ms;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	ul figcaption {
+		transform: translate3d(0, 2rem, 0);
+	}
+	
+	ul figure::after {
+		border-radius: 50%;
+		opacity: 1;
+		transform: scale(0);
+		transition: transform 900ms;
+	}
+	
+	ul a:is(:hover, :focus) figure::after {
+		transform: scale(2.5);
+	}
+
+	ul a:is(:hover, :focus) figcaption {
+		opacity: 1;
+		transform: translate3d(0, 0, 0);
+		transition: opacity 600ms 400ms, transform 600ms 400ms;
+	}
+
+	ul a:is(:hover, :focus) img {
+		transform: scale(1.2);
+	}
+}
+</style>
+
+<h1 id="hobbies-and-interests">Hobbies and Interests</h1>
+<p>When not working, enjoys exploring with friends and family and capturing moments along the way. Biking, surfing, and traveling outdoors are some favorite activities. When not outside, enjoys pottery, photography, and being a DJ.</p>
+
+<h2 id="gallery">Gallery</h2>
+<ul>
+    <li><a><figure>
+                <img src="/assets/img/hobbies/hobby1.jpeg" title="Yosemite Winter" alt="Yosemite Winter" />
+                <figcaption>Yosemite Winter</figcaption>
+    </figure></a></li>
+     <li><a><figure>
+                <img src="/assets/img/hobbies/hobby2.jpeg" title="Glazed Bowl Set" alt="Glazed Bowl Set" />
+                <figcaption>Glazed Bowl Set</figcaption>
+    </figure></a></li>
+     <li><a><figure>
+                <img src="/assets/img/hobbies/hobby3.jpeg" title="Glazed Dinner Set" alt="Glazed Dinner Set" />
+                <figcaption>Glazed Dinner Set</figcaption>
+    </figure></a></li>
+     <li><a><figure>
+                <img src="/assets/img/hobbies/hobby4.jpeg" title="Mountain Biking" alt="Mountain Biking" />
+                <figcaption>Mountain Biking</figcaption>
+    </figure></a></li>
+     <li><a><figure>
+                <img src="/assets/img/hobbies/hobby5.jpeg" title="Dorm DJ Set" alt="Dorm DJ Set" />
+                <figcaption>Dorm DJ Set</figcaption>
+    </figure></a></li>
+     <li><a><figure>
+                <img src="/assets/img/hobbies/hobby6.jpeg" title="Triathlon" alt="Triathlon" />
+                <figcaption>Triathlon</figcaption>
+    </figure></a></li>
+    <li><a><figure>
+                <img src="/assets/img/hobbies/hobby7.jpeg" title="Wake Surfing" alt="Wake Surfing" />
+                <figcaption>Wake Surfing</figcaption>
+    </figure></a></li>
+    <li><a><figure>
+                <img src="/assets/img/hobbies/hobby8.jpeg" title="Fishing" alt="Fishing" />
+                <figcaption>Fishing</figcaption>
+    </figure></a></li>
+    <li><a><figure>
+                <img src="/assets/img/hobbies/hobby9.png" title="Northstar Snowboarding" alt="Northstar Snowboarding" />
+                <figcaption>Northstar Snowboarding</figcaption>
+    </figure></a></li>
+    <li><a><figure>
+                <img src="/assets/img/hobbies/hobby10.jpeg" title="Throwing Sealed Vase" alt="Throwing Sealed Vase" />
+                <figcaption>Throwing Sealed Vase</figcaption>
+    </figure></a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        <p style="font-size:10px">
+        
+        This project is maintained by <a href="https://github.com/nowiley">nowiley</a>
+        
+        <br><small style="font-size:7px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>

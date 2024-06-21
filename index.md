@@ -12,7 +12,7 @@ Click to check out some past and present projects!
 
 ---
 
-## [Hobbies](./hobbies/hobbies_home.html)
+## [Hobbies](./hobby_pages/hobbies_home.html)
 Check out some of hobbies and interests!
 
 ---

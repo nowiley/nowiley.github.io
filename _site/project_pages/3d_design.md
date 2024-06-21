@@ -27,6 +27,7 @@
     <img title="Battery Wired" src="/assets/img/projects/3d_design/cad12.jpg">
     <img title="Battery AA Powered" src="/assets/img/projects/3d_design/cad13.jpg">
 </div>
+<br>
 
 ## Design and Process
 **First Steps:** Identify needs of project like environment, interface, manufacturing process, and precice measurements. Sketch out ideas on paper, create initial design in Fusion 360, and produce a low fidelity prototype with 3D printer or CNC machine. Test fit, function, and aesthetics before iterating on design. 
