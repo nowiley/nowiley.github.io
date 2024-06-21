@@ -25,6 +25,16 @@ Check out some of hobbies and interests!
 ---
 
 ## Work Experience
+#### Co-Founder of JokTok (January 2024 - Present)
+- Develop and advise on product strategy, buisness development, and technical architecture of school social media app
+- Identify applications for machine learning to increase user engagement and reduce cyberbullying
+- Conduct student outreach and user testing to improve user experiences
+
+#### SLAM on Energy Constrained Vehicles @ MIT LEAN Lab <br> Researcher under Professor Vivienne Sze and Professor Sertac Karaman (May 2024 - Present)
+- Integrate monocular vSLAM on 2 watt robotic platforms with ROS and PyTorch
+- Optimize SLAM performance using gaussian mixture model mapping, dnn uncertainty estimation, and energy aware motion planning algorithms
+- Construct miniature robotic platforms and verify performance through indoor and outdoor field tests
+
 #### RFID SAR Micro-Localization @ MIT Media Lab <br> Researcher under Professor Fadel Adib (Sep 2023 - May 2024)
 - Designed controls and pattern matching algorithm for RFID frequency hopping on custom hardware using C, Python, STM32, and RPi to increase duty cycle by 40%
 - Analyzed performance of SPI communication with oscilloscope and signal generator to ensure robust functionality
