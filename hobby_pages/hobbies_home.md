@@ -1,3 +1,4 @@
+# Hobbies and Interests
 <style>
 /* from https://codepen.io/smashingmag/pen/KKvMqaL */
 * {
@@ -108,8 +109,6 @@ ul a:is(:hover, :focus) figcaption {
 	}
 }
 </style>
-
-# Hobbies and Interests
 When not working, enjoys exploring with friends and family and capturing moments along the way. Biking, surfing, and traveling outdoors are some favorite activities. When not outside, enjoys pottery, photography, and being a DJ. 
 
 ## Gallery

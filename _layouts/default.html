@@ -17,7 +17,7 @@
       <header>
         <h1 style="margin-bottom:5px"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
-          <img style="border-radius:20px;" src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="{{ "/" | absolute_url }}"><img style="border-radius:20px;" src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
 
         <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
@@ -37,12 +37,16 @@
               <span style="vertical-align: middle;"> Email</span>
             </a>
             <a href="https://www.linkedin.com/in/noah-wiley-eng/">
-                <img src="/assets/img/linkedin_favicon.png" style="width:30px;vertical-align:middle;">
-                <span style="vertical-align: middle;"> LinkedIn</span>
+              <img src="/assets/img/linkedin_favicon.png" style="width:30px;vertical-align:middle;">
+              <span style="vertical-align: middle;"> LinkedIn</span>
             </a>
             <a href="https://www.github.com/nowiley">
-                <img src="/assets/img/github_favicon.png" style="width:30px;vertical-align:middle;">
-                <span style="vertical-align: middle;"> GitHub</span>
+              <img src="/assets/img/github_favicon.png" style="width:30px;vertical-align:middle;">
+              <span style="vertical-align: middle;"> GitHub</span>
+            </a>
+            <a href="/resume_page/resume.html">
+              <img src="/assets/img/resume_favicon.png" style="width:30px;vertical-align:middle;">
+              <span style="vertical-align: middle;"> Resume</span>
             </a>
         </div></p>
         

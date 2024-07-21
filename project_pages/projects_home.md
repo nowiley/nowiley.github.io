@@ -1,5 +1,5 @@
 # Maker Projects
-A collection of past and present projects. Started making because of his favoirte childhood TV show, How it's Made.
+A collection of past and present projects. Started making because of his favorite childhood TV show, How it's Made.
 
 Early projects include building a desktop computer and MIDI controller. He became interested in electronics and the physical aspect of creating, and explored 3D design using Fusion 360 and 3D printing.
 
