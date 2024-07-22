@@ -8,12 +8,17 @@ A dedicated MIT student and versatile engineer with real world experience workin
 ---
 
 ## [Maker Projects](./project_pages/projects_home.html)
-Click to check out some past and present projects!
+Check out some past and present projects!
 
 ---
 
 ## [Hobbies](./hobby_pages/hobbies_home.html)
 Check out some of hobbies and interests!
+
+---
+
+## [Resume](./resume_page/resume.html)
+Check out the most recent PDF resume!
 
 ---
 
