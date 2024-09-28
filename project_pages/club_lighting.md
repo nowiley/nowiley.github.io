@@ -17,13 +17,14 @@ Custom lighting system for fraternity basement with lasers, moving lights and ad
 <div class="scroll-container">
     <!-- <video controls title="Tubes and bars only"> <source src="/assets/img/projects/club/tubes_bars.mp4"></video> -->
     <video controls title="All together"> <source type="video/mp4" src="/assets/img/projects/club/lasers.mp4"></video>
+    <img title="Delta Construction" src="/assets/img/projects/club/club9.JPG">
+    <img title="PCB Integration" src="/assets/img/projects/club/club8.JPG">
+    <img title="Delta PCB" src="/assets/img/projects/club/club7.JPG">
+    <video controls title="Testing Delta"> <source type="video/mp4" src="/assets/img/projects/club/testdelta.mp4"></video>
     <img title="Bar Effects" src="/assets/img/projects/club/club6.jpeg">
     <img title="Artnet to DMX with ESP8266" src="/assets/img/projects/club/club1.JPG">
     <video controls title="Programming moving lights"> <source src="/assets/img/projects/club/prog_movers.mp4"></video>
     <img title="Planning the tube lights" src="/assets/img/projects/club/club2.JPG">
-    <img title="Planning Roof 1" src="/assets/img/projects/club/club4.JPG">
-    <img title="Planning Roof 2" src="/assets/img/projects/club/club5.JPG">
-    <img title="Before" src="/assets/img/projects/club/club3.JPG">
     <img title="Dashboard" src="/assets/img/projects/club/dashboard.png">
 </div>
 <br>

@@ -29,7 +29,7 @@ Check out the most recent PDF resume!
 <li> Accepted into Masters of Engineering (Expected 2026-2027) </li>
 </ul>
 <h3 style="margin:0px;font-size:0.9rem"> Relevant Coursework </h3>
-Design and Analysis of Algorithms, Performance Engineering of Software Systems, Dynamics and Controls, Sensorimotor Learning (Grad), Computation Structures, Machine Learning (Lab Assistant), Probability, Linear Algebra
+Design and Analysis of Algorithms, Digital Systems, Tiny ML and Efficient Deep Learning (Grad), Dynamics and Controls, Sensorimotor Learning (Grad), Computation Structures, Machine Learning (Lab Assistant), Probability, Statistics, Linear Algebra
 
 ---
 
@@ -41,10 +41,10 @@ Design and Analysis of Algorithms, Performance Engineering of Software Systems, 
 
 
 #### Ultra-Efficient Robotic Perception and Planning @ MIT LEAN Lab <br> Researcher under Professor Vivienne Sze and Professor Sertac Karaman (May 2024 - Present)
-- Implemented remote compute and vision stack with TCP/IP enabling intensive autonomy processes for ultra-low power robots
-- Strategically offload real-time data to GPU servers for SLAM and depth and uncertainty estimation with sub-second latency 
-- Refactored code leveraging Docker and achieved full native support for ROS, libraries, and condensed usage to a single command
-- Design and verify energy included autonomy algorithms and efficient ML models on physical robot platforms
+- Developed entire remote compute and vision stack, enabling intensive autonomy processes on ultra-low power robots
+- Design and analyze selective perception and motion planning algorithms for dynamic maps, reducing computation
+- Integrated SLAM and depth+uncertainty estimation with sub-second latency by strategically offloading data with TCP/IP
+- Refactored code leveraging Docker; achieved full native support for ROS, PiCamera, and single command launch
 
 
 #### RFID SAR Micro-Localization @ MIT Media Lab <br> Researcher under Professor Fadel Adib (Sep 2023 - May 2024)
