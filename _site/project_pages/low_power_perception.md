@@ -15,11 +15,11 @@ Designed vision and remote computation stack for small Raspberry Pi Zero 2 W pow
 
 ## Gallery
 <div class="scroll-container">
-    <video controls title="All together"> <source type="video/mp4" src="/assets/img/projects/low_power_perception1.mp4"></video>
     <img title="Testing Vision Latency" src="/assets/img/projects/low_power_perception/perception2.jpg">
     <img title="OBSLAM3 Verification" src="/assets/img/projects/low_power_perception/perception3.JPG">
     <img title="Motion-Capture Room Integration" src="/assets/img/projects/low_power_perception/perception4.jpg">
     <img title="IMU Integration" src="/assets/img/projects/low_power_perception/perception5.JPG">
+    <video controls title="All together"> <source type="video/mp4" src="/assets/img/projects/low_power_perception/perception1.MP4"></video>
 </div>
 <br>
 
