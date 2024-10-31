@@ -10,6 +10,24 @@ Later he began building EVs using high power brushless motors from RC systems an
 <table>
     <tr>
         <td style="width:50%">
+            <a href="/project_pages/projects_home.html">
+                <figure>
+                    <img src="/assets/img/projects/Coming Soon.png" title="Coming Soon" style="width: 100%;">
+                    <figcaption>Coming Soon</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td style="width:50%">
+            <a href="/project_pages/low_power_perception.html">
+                <figure>
+                    <img src="/assets/img/projects/projects_home/perception_car.jpg" title="Low Power Perception" style="width: 100%;">
+                    <figcaption>Low Power Perception</figcaption>
+                </figure>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:50%">
             <a href="/project_pages/club_lighting.html">
                 <figure>
                     <img src="/assets/img/projects/projects_home/club_light.JPG" title="Basement Lighting" style="width: 100%;">
