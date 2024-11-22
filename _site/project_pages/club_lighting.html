@@ -22,7 +22,7 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"Noah Wiley","headline":"Club Lighting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpeg"}},"url":"http://localhost:4000/project_pages/club_lighting.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=f3886b7c506977d9a6b3b976fe1ed72fabb939a0">
+    <link rel="stylesheet" href="/assets/css/style.css?v=61e75264eea1159cecdb57b9128440b869bc11b4">
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
         <![endif]-->
@@ -118,6 +118,8 @@
     <img title="Artnet to DMX with ESP8266" src="/assets/img/projects/club/club1.JPG" />
     <video controls="" title="Programming moving lights"> <source src="/assets/img/projects/club/prog_movers.mp4" /></video>
     <img title="Planning the tube lights" src="/assets/img/projects/club/club2.JPG" />
+    <img title="FPGA Testing" src="/assets/img/projects/club/club10.JPG" />
+    <img title="Terrible Level Shifter Signal" src="/assets/img/projects/club/club11.JPG" />
     <img title="Dashboard" src="/assets/img/projects/club/dashboard.png" />
 </div>
 <p><br /></p>
@@ -134,6 +136,8 @@
 <p><strong>Communication:</strong> Modern professional lighting systems use Art-Net or sACN to transmit tens of thousands of channels of control data over ethernet (DMX is limited to 512 channels). Further research and experimentation shows ArtNet protocol uses UDP which we found to work reliably over WIFI instead of ethernet in our smaller scale system. We use the 2.4GHz band of a small <a href="https://www.tp-link.com/us/home-networking/wifi-router/archer-c54/">TP-Link Archer C54</a> router with 300 Mbps of bandwith which we found to work well.</p>
 
 <p><strong>User Interface:</strong> <a href="http://qlcplus.org/">QLC+</a>, an open source lighting control software that pairs nicely with custom WLED fixtures. Our Raspberry Pi runs a limited version of Linux hosting a QLC+ webserver. A user simply loads a webpage and logs on to see and interact with the lighting dashboard. This dashboard includes buttons, sliders, and knobs that the user can interact with via keyboard, MIDI controller, or touchscreen. We find that users enjoy the touchscreen experience the most.</p>
+
+<p><strong>IN PROGRESS (FPGA):</strong> Currently designing custom led drivers and camera system to quickly calibrate an arbitrary led layout. Future plans include using displaying camera feed on the unconstrained leds with live re-calibration. Lots of interesting timing, protocols, and electrical phenomena to explore, feel free to reach out if you have any questions!</p>
 
       <br>
       <br>

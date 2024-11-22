@@ -16,6 +16,9 @@
     <img title="MIDI Launchpad Bottom" src="/assets/img/projects/3d_design/cad6.jpg">
     <img title="MIDI Launchpad Top" src="/assets/img/projects/3d_design/cad7.jpg">
     <video controls title="MIDI Launchpad Finished">  <source src="/assets/img/projects/3d_design/cad8.MP4"> </video>
+    <img title="Frame with Rigid Camera Mount" src="/assets/img/projects/3d_design/cad14.png">
+    <img title="Basement Design" src="/assets/img/projects/3d_design/cad15.png">
+    <img title="Lighting Corner" src="/assets/img/projects/3d_design/cad16.png">
     <img title="AC Enclosure" src="/assets/img/projects/3d_design/cad10.jpg">
     <img title="AC Enclosure Finished" src="/assets/img/projects/3d_design/cad11.jpg">
     <img title="Wireless Charging Stand" src="/assets/img/projects/3d_design/cad4.jpg">
@@ -24,8 +27,7 @@
     <img title="Skateboard Pulley" src="/assets/img/projects/3d_design/cad9.jpg">
     <img title="Large Security Piece" src="/assets/img/projects/3d_design/cad1.jpg">
     <img title="Small Security Piece" src="/assets/img/projects/3d_design/cad2.jpg">
-    <img title="Battery Wired" src="/assets/img/projects/3d_design/cad12.jpg">
-    <img title="Battery AA Powered" src="/assets/img/projects/3d_design/cad13.jpg">
+
 </div>
 <br>
 
@@ -36,9 +38,15 @@
 
 **MIDI Launchpad Enclosure:** Designed to fit a matrix of arcade buttons and an Arduino Nano. Added reinforcements under buttons to stand up to heavy use during performances. Carefully added mounting points to position USB port of Arduino Nano to allow for easy use.
 
+**Frame with Rigid Camera Mount:** Designed to interface with existing lower frame for [low power robotic car](/project_pages/low_power_perception.html). Camera mount is rigid to allow robust IMU-Camera calibration for SLAM. Quickly printable and easy to assemble with melt in pins not requiring screws.
+
+**Basement Design:** Custom stage and DJ booth for a complex basement geometry. Designed to fit closely to existing walls and support heavy loads. Also factored in common building materials and construction techniques to make the design easy to build.
+
+**Lighting Corner:** Designed to fit acrylic diffuser tubes (repurposed fluorescent light guards) and custom control control circuits. Symmetric design allows for easy printing and assembly. Designed to be mounted on celings while providing a sleek look for [custom lights](/project_pages/club_lighting.html). 
+
 **Personal AC Unit:** To combat a hot summer in San Francisco, designed a custom AC unit using 12v computer fans, copper tubing, and a 12v power supply. Enclosure includes a sponge/water resivoir to prevent condensation leaks. Enclosure is desinged in two parts for easy assembly and a sleek look.
 
-**Wireless Charging Stand:** Designed in two pieces to allow for optimal print orientation, surface finish, and strength. Easily assembels without screws and fits common wireless charging coils.
+**Wireless Charging Stand:** Designed in two pieces to allow for optimal print orientation, surface finish, and strength. Easily assembles without screws and fits common wireless charging coils.
 
 **Boat Speaker Mount Adapter:** Designed to fit a custom speaker mount to a boat tower. Design includes slots for hose clamps to support the extra large speaker on a single mount. Laser cut from 3/8 inch steel and powder coated for durability.
 
@@ -46,5 +54,4 @@
 
 **Secure Bag Lock:** Custom made for a pattented security bag. Replaced prototype design made with epoxy putty. Designed to be durable, easy to manufacture, and easy to install. Product is used today in San Francisco to protect high value items in high theft areas.
 
-**Battery:** Designed to interface with proprietary commercial units while using standard AA and AAA batteries. 
 

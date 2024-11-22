@@ -25,6 +25,8 @@ Custom lighting system for fraternity basement with lasers, moving lights and ad
     <img title="Artnet to DMX with ESP8266" src="/assets/img/projects/club/club1.JPG">
     <video controls title="Programming moving lights"> <source src="/assets/img/projects/club/prog_movers.mp4"></video>
     <img title="Planning the tube lights" src="/assets/img/projects/club/club2.JPG">
+    <img title="FPGA Testing" src="/assets/img/projects/club/club10.JPG">
+    <img title="Terrible Level Shifter Signal" src="/assets/img/projects/club/club11.JPG">
     <img title="Dashboard" src="/assets/img/projects/club/dashboard.png">
 </div>
 <br>
@@ -41,3 +43,5 @@ Custom lighting system for fraternity basement with lasers, moving lights and ad
 **Communication:** Modern professional lighting systems use Art-Net or sACN to transmit tens of thousands of channels of control data over ethernet (DMX is limited to 512 channels). Further research and experimentation shows ArtNet protocol uses UDP which we found to work reliably over WIFI instead of ethernet in our smaller scale system. We use the 2.4GHz band of a small [TP-Link Archer C54](https://www.tp-link.com/us/home-networking/wifi-router/archer-c54/) router with 300 Mbps of bandwith which we found to work well.
 
 **User Interface:** [QLC+](http://qlcplus.org/), an open source lighting control software that pairs nicely with custom WLED fixtures. Our Raspberry Pi runs a limited version of Linux hosting a QLC+ webserver. A user simply loads a webpage and logs on to see and interact with the lighting dashboard. This dashboard includes buttons, sliders, and knobs that the user can interact with via keyboard, MIDI controller, or touchscreen. We find that users enjoy the touchscreen experience the most.
+
+**IN PROGRESS (FPGA):** Currently designing custom led drivers and camera system to quickly calibrate an arbitrary led layout. Future plans include using displaying camera feed on the unconstrained leds with live re-calibration. Lots of interesting timing, protocols, and electrical phenomena to explore, feel free to reach out if you have any questions!
