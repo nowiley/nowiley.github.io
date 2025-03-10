@@ -29,7 +29,7 @@ Check out the most recent PDF resume!
 <li> Accepted into Masters of Engineering (Expected 2026-2027) </li>
 </ul>
 <h3 style="margin:0px;font-size:0.9rem"> Relevant Coursework </h3>
-Design and Analysis of Algorithms | Digital Systems | Dynamics and Controls | Circuits | Software Construction | Probability | Statistics | Linear Algebra | Tiny ML and Efficient Deep Learning (Grad)| Sensorimotor Learning (Grad)
+Design and Analysis of Algorithms | Digital Systems | Signal Processing | Dynamics and Controls | Circuits | Software Construction | Probability | Statistics | Linear Algebra | Tiny ML and Efficient Deep Learning (Grad)| Sensorimotor Learning (Grad)
 
 ---
 
@@ -47,6 +47,7 @@ Design and Analysis of Algorithms | Digital Systems | Dynamics and Controls | Ci
 - Achieved full native support for all dependencies and eliminated connectivity issues; modularized codebase leveraging Docker
 - Developed remote compute and vision stack with TCP/IP, enabling intensive autonomy processes on ultra-low power robots
 - Verified and documented systems; seamlessly integrated energy efficient motion planning, SLAM, and depth estimation
+
 
 #### Machine Learning Teaching 
 ##### MIT Intro ML Learning Assistant and Italian High School Teacher (January 2024 - Present) 
@@ -95,7 +96,7 @@ Design and Analysis of Algorithms | Digital Systems | Dynamics and Controls | Ci
 - Design and construct electric vehicles and protected lithium battery packs with capacities from 1 Wh to multiple kWh
 - Previous electric vehicles include: 2 Electric Skateboards, 2 Electric Bikes, 1 Motorized Cooler, 1 Reverse Engineered Scooter
 
-#### 3D Design, Arduino, and Manufacturing (Summer 2026 - Present)
+#### 3D Design, Arduino, and Manufacturing (Summer 2016 - Present)
 - Use Fusion360, 3D printing, and other methods to model and manufacture single and multi-component assemblies
 - Integrate and program Arduino boards into musical instruments, security systems, and IoT systems
 
