@@ -9,11 +9,19 @@ Later he began building EVs using high power brushless motors from RC systems an
 
 <table>
     <tr>
-        <td style="width:50%">
+        <!-- <td style="width:50%">
             <a href="/project_pages/projects_home.html">
                 <figure>
                     <img src="/assets/img/projects/Coming Soon.png" title="Coming Soon" style="width: 100%;">
                     <figcaption>Coming Soon</figcaption>
+                </figure>
+            </a>
+        </td> -->
+        <td style="width:50%">
+            <a href="/project_pages/aduli_led.html">
+                <figure>
+                    <img src="/assets/img/projects/projects_home/aduli_led.gif" title="ADULI-LED" style="width: 100%;">
+                    <figcaption>ADULI-LED</figcaption>
                 </figure>
             </a>
         </td>

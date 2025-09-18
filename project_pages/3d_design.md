@@ -1,4 +1,4 @@
-# 3D Desing and CAD
+# 3D Design and CAD
 3D CAD models made in Fusion 360 for personal projects and industrial applications. Designs include custom enclosures, mounts, and parts for security systems used in high theft areas of San Francisco.
 
 ### Details

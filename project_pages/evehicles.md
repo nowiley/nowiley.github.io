@@ -27,7 +27,7 @@ Began creating electric vehicles in 2017 for personal use and science fair proje
 <br>
 
 ## Notes
-**Electric Skateboards:** First design used RC car brushless motors, two separate Li-Po battery packs, and a cheap dual motor esc. While this did the job, it was heavy, bulky, and unreliable. This was changed in the second version which used programmable VESCs, a custom battery, and a professional grade remote and reciever for smoother and more reliable ride.
+**Electric Skateboards:** First design used RC car brushless motors, two separate Li-Po battery packs, and a cheap dual motor esc. While this did the job, it was heavy, bulky, and unreliable. This was changed in the second version which used programmable VESCs, a custom battery, and a professional grade remote and reciever for a smoother and more reliable ride.
 
 **Electric Bikes:** First design used a 1000w motor and a few 37v RC Li-Po batteries with a bms. This was much more reliable and comfortable than the skateboards and easy to charge with the addition of a bms. When making the second bike, a newer more stable bike frame was chosen to accomodate a 1500w motor and a 58v lithium ion battery pack. This was even more powerful and used often to tour around San Francisco.
 
