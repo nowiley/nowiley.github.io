@@ -26,6 +26,14 @@ Later he began building EVs using high power brushless motors from RC systems an
             </a>
         </td>
         <td style="width:50%">
+            <a href="/project_pages/aduli_led.html">
+                <figure>
+                    <img src="/assets/img/projects/projects_home/aduli_led.gif" title="ADULI-LED" style="width: 100%;">
+                    <figcaption>ADULI-LED</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td style="width:50%">
             <a href="/project_pages/low_power_perception.html">
                 <figure>
                     <img src="/assets/img/projects/projects_home/perception_car.jpg" title="Low Power Perception" style="width: 100%;">
