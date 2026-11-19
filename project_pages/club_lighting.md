@@ -32,6 +32,8 @@ Custom lighting system for fraternity basement with lasers, moving lights and ad
 <br>
 
 ## Design and Process
+**Motivation:** Visual effects set the tone of contemporary concerts without a single sound. Visual effects also presents a fun control problem since lighting scenes are just a bunch of numbers. Precicely and creativley varying these numbers over time allows for the effects you see in concerts. We wanted these effects in our basement.
+
 **First Steps:** Surveyed the existing lighting system, room layout, and user needs. Researched industry standards and best practices for festival and club lighting. Discovered DMX, Artnet, and sACN protocols for lighting control which often rely on wired connections (XLR, RJ45) and proprietary software.
 
 **High Level Design:** A QLC+ webserver is hosted on a Raspberry Pi hooked up to a router for better WIFI coverage. The Pi runs a QLC+ server which can be accessed by any user on the network. Custom lights have their own ESP32 controler connected to the network, and old dmx lights are connected to an ESP8266 ArtNet to DMX node based off of [this repo](https://github.com/robertoostenveld/esp8266_artnet_dmx512?tab=readme-ov-file). These ESP32s and ESP8266s subscribe to their respective multicast group and output controls to the fixtures. System response is rapid and smooth even with hundreds of WIFI devices nearby.
