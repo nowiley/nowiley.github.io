@@ -19,8 +19,8 @@ Low-latency Artnet to DMX decoder with off the shelf parts. Utilizing both cores
     <img title="Powered No Box" src="/assets/img/projects/artnet_node/node4.JPG">
     <img title="No ESP32-P4" src="/assets/img/projects/artnet_node/node5.JPG">
     <img title="Routing" src="/assets/img/projects/artnet_node/node6.JPG">
-    <img title="Stacked" src="/assets/img/projects/artnet_node/node7.JPG">
-    <img title="Breadboard POE" src="/assets/img/projects/artnet_node/node8.JPG">
+    <img title="Stacked" src="/assets/img/projects/artnet_node/node7.PNG">
+    <img title="Breadboard POE" src="/assets/img/projects/artnet_node/node8.PNG">
     <img title="DMX Timing from www.radiolocman.com" src="/assets/img/projects/artnet_node/node9.JPG">
     <img title="Web Interface" src="/assets/img/projects/artnet_node/node10.JPG">
 </div>
